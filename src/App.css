@@ -1,0 +1,383 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    font-weight: 600;
+    /* color: rgba(0, 0, 0, 0.836); */
+    margin-top: 20px;
+    margin-left: 30%;
+    font-size: 18px;
+
+}
+
+a {
+    text-decoration: none;
+}
+.search{
+    width: 600px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.071);
+}
+.gap999{
+    gap: 20px;
+}
+.gap200{
+    gap: 100px;
+    margin-left: 270px;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bbb{
+    width: 60px;
+}
+.cccc{
+    color: rgba(0, 0, 0, 0.296);
+}
+.sarak{
+    margin-left: 40%;
+}
+.shift100{
+    margin-left: 42%;
+}
+.section1 {
+    padding: 100px 50px;
+}
+.top{
+    margin-top: 30px;
+}
+
+.nav {
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+
+    margin: 0 20px;
+
+}
+li:hover{
+    font-weight: bold;
+    color: rgb(164, 25, 49);
+}
+
+.c{
+    margin-left: 85px;
+    color: rgba(0, 0, 0, 0.676);
+}
+.c1{
+    margin-left: 100px;
+    color: rgba(0, 0, 0, 0.676);
+}
+.gap10{
+    margin-left: 170px;
+
+}
+
+.section{
+    padding: 50px 50px;
+}
+.side {
+    margin-left: 35%;
+}
+
+.resize20 {
+    width: 50px;
+    margin-top: 10px;
+    
+}
+
+.box {
+    border: 1px solid rgba(0, 0, 0, 0.218);
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px;
+    margin-left: 50px;
+
+}
+.box:hover{
+    transform: scale(1.09);
+    transition: all 0.3s ease;
+}
+
+.flex {
+
+    display: flex;
+    margin-top: 30px;
+}
+
+.light {
+    color: rgba(0, 0, 0, 0.881);
+}
+
+.l {
+    color: rgba(0, 0, 0, 0.877);
+}
+
+.p {
+    color: pink;
+    word-spacing: 10px;
+}
+
+.lt {
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.227);
+    font-size: 14px;
+}
+
+.gap {
+    gap: 20px;
+
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.resize2{
+    width: 1400px;
+    margin-left: 5px;
+
+}
+.aaaa{
+    margin-left: 36%;
+}
+.light1{
+    color: pink;
+}
+.resize5{
+    width: 50px;
+    margin-top: 10px;
+}
+
+.box2{
+    border: 1px solid rgba(0, 0, 0, 0.402);
+    border-radius: 10px;
+    width: 1230px;
+}
+.re{
+    height: 500px;
+}
+.info{
+    margin-top: 100px;
+
+}
+.cl{
+    color: rgba(0, 0, 0, 0.748);
+}
+.shift{
+    margin-left: 70px;
+
+}
+.small{
+    width: 50px;
+}
+.lt2{
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.548);
+}
+.sss{
+    word-spacing: 10px;
+}
+.hello{
+    background-color: pink;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+}
+.hello:hover{
+    background-color: black;
+    transition: all 0.3s ease;
+}
+.box3{
+    width: 260px;
+    /* border: 1px solid rgba(0, 0, 0, 0.646); */
+     border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.box4{
+    width: 260px;
+    /* border: 1px solid rgba(0, 0, 0, 0.646); */
+     border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.box5{
+    width: 260px;
+    /* border: 1px solid rgba(0, 0, 0, 0.646); */
+     border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.box6{
+    width: 260px;
+    /* border: 1px solid rgba(0, 0, 0, 0.646); */
+     border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.box7{
+    width: 260px;
+    /* border: 1px solid rgba(0, 0, 0, 0.646); */
+     border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.box8{
+    width: 260px;
+    /* border: 1px solid rgba(0, 0, 0, 0.646); */
+     border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.box9{
+    width: 260px;
+    /* border: 1px solid rgba(0, 0, 0, 0.646); */
+     border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.box10{
+    width: 260px;
+    /* border: 1px solid rgba(0, 0, 0, 0.646); */
+     border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.box11{
+    width: 260px;
+    /* border: 1px solid rgba(0, 0, 0, 0.646); */
+     border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.box12{
+    width: 260px;
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.box3:hover{
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.box4:hover{
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.box5:hover{
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.box6:hover{
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.box7:hover{
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.box8:hover{
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.box9:hover{
+    
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.box10:hover{
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.box11:hover{
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.box12:hover{
+    transform:scale(1.05) ;
+    transition: all 0.3s ease;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.281);
+}
+.thik{
+    width: 250px;
+}
+.aaa{
+    color: rgba(0, 0, 0, 0.478);
+}
+.resize{
+    width: 30px;
+}
+.rating {
+  color: gold; /* ⭐ golden color */
+  font-size: 20px; /* thoda chhota */
+  letter-spacing: 2px; /* thoda gap beech me */
+}
+.acc{
+    margin-left:10px ;
+}
+.top{
+    margin-top: 60px;
+}
+.acc2{
+    margin-left: 650px;
+}
+.done{
+    width: 350px;
+    border-radius: 10px;
+}
+.pink:hover{
+    color: pink;
+    transition: all 0.3s ease;
+}
+.pink{
+    color: rgba(0, 0, 0, 0.664);
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.887);
+    padding: 20px 100px;
+    margin-top: 50px;
+}
+.white{
+    color: rgba(255, 255, 255, 0.582);
+}
+.ws{
+    word-spacing: 5px;
+}
+.white2{
+    color: white;
+}
+
+.gap1000{
+    gap: 100px;
+}
+.aside{
+    margin-left: 35%;
+}
+.white:hover{
+color: pink;
+transition: all 0.3s ease;
+}
+.big{
+    width: 50px;
+}
